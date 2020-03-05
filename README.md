@@ -1,1 +1,1 @@
-# iPSC-game.github.io
+# iPSC-game
